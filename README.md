@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Claudia Rangel 👋
+
+I'm a Chemical Engineer passionate about software development. I'm currently working on Python and Java projects 
+
+<img width="1280" height="640" alt="Banner Github Claudia" src="https://github.com/user-attachments/assets/6a9be876-5f06-4169-a088-896385255f7a" />
+
 
 <!--
 **GitClauRangel/GitClauRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
